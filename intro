@@ -1,0 +1,8 @@
+typescript is a open source pure object orianted programming language .
+
+it is a strongly typed language .
+it uses oops consepts . its superset of javascript .
+It compiles to plain javscript .
+typescript is ES6versions of javascript and some additional features.
+
+TSC : typescript Compiler : this compiles typescript to javascript because all browsers understands javascript. 
