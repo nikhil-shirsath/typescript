@@ -6,3 +6,53 @@ It compiles to plain javscript .
 typescript is ES6versions of javascript and some additional features.
 
 TSC : typescript Compiler : this compiles typescript to javascript because all browsers understands javascript. 
+
+It can't run directly on the web browsers thats why it have tsc .
+
+after compilation ts file generates javascript file and the javascript file runs on the web browsers.
+
+History : in 2010 Anders Hejlsberg (creator).
+
+usage if typescript :
+1. It supports OOPs .
+2.it supports static typing , strongly typed . Modules ,Optional parameters.
+3. Its fast , simple and most importantly easy to learn .
+4.Compile time error catching 
+5. supports all libraries of javascript.
+
+why typescript is developed 
+javascript was develop for client side scripting but developer also want to use javscript to used on the server side . that features also develop but the code became too heavey to write and run also that why we need typescript. which can also run on the serverside.
+
+Features of typescript 
+======================
+TRANS-PILED
+-----------
+> typescript code is converted into plain javascript code 
+
+> Typescript can be used anywhere : anybrowser , anydevice
+>Typescript supports JS libraries 
+
+Advantage of typescript 
+======================
+> Typescript always highlights errors at the compile time during the time of development , wheres javascript points errors at the runtime.
+> typescript supports storngly typed or static typing , wheres this is not in javascript.
+>great tooling supports with intellisense which provides active hints as the code added .
+>It has a  namespace consept by  defining a module.
+
+
+Disadvantage
+===========
+
+Typescript takes a long time to compile the code .
+typescript does not support abstract classes.
+if we run typescript appliction in the browser , a compilation step is required to transform typescript to javascript.
+
+Diffrence b/w javascript and typescript
+
+
+Typescript installation 
+typescript -g install  > run this command on the node.js command prompt
+
+To check version of typescript 
+tsc -v
+this will show the typescript compiler version in your system .
