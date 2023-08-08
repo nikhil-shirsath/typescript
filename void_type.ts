@@ -9,3 +9,20 @@
 
 let learn:void = undefined
 console.log(learn)
+
+let number1
+console.log(typeof(number1))
+
+function show():void{
+    document.write("hii how are you")
+    console.log("hii how are you")
+    // return 1  //this will give error because video cant return anything.
+}
+
+show();
+
+let a:void;
+// a="name" //this will not accept any value 
+
+console.log(a);
+console.log(typeof(a))

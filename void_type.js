@@ -6,3 +6,14 @@
 // value is undefined
 var learn = undefined;
 console.log(learn);
+var number1;
+console.log(typeof (number1));
+function show() {
+    document.write("hii how are you");
+    console.log("hii how are you");
+    // return 1  //this will give error because video cant return anything.
+}
+show();
+var a;
+console.log(a);
+console.log(typeof (a));
