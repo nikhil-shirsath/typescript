@@ -21,7 +21,8 @@ console.log(array_stor+typeof(array_stor))
 
 var list :number[]=[1,2324]
 console.log(list+typeof(list))//printing object
-
+var me="nikhil"
+document.getElementById("typescript_code") 
 // array indexing starts from 0 
 for (var i in list){
     console.log(list[i])
